@@ -10,7 +10,7 @@ The format stores references to card images and related metadata.
 The format does not embed image data in `deck.json` itself.  
 A deck package also includes a separate `meta.json` manifest.  
 The required value of any JSON `format` field is not defined inline by this document revision.  
-Instead, it must be the CartoVanta format identifier specified by the CartoVanta Format Registry for the applicable version of the file format. The CartoVanta Format Registry (`https://github.com/CartoVanta/cartovanta-filespec/blob/main/version-registry.md`) maps each format identifier to its corresponding canonical specification revision.
+Instead, it must be the CartoVanta format identifier specified by the CartoVanta Format Registry for the applicable version of the file format. The CartoVanta Format Registry (https://github.com/CartoVanta/cartovanta-filespec/blob/main/version-registry.md) maps each format identifier to its corresponding canonical specification revision.
 
 ## 2. Deck Layout
 
